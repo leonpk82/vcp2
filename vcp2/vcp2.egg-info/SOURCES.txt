@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+vcp2/__init__.py
+vcp2/__init__.py.bak
+vcp2/config.yml
+vcp2/config.yml.bak
+vcp2/mainwindow.py
+vcp2.egg-info/PKG-INFO
+vcp2.egg-info/SOURCES.txt
+vcp2.egg-info/dependency_links.txt
+vcp2.egg-info/entry_points.txt
+vcp2.egg-info/top_level.txt
+vcp2/resources/resources.qrc
+vcp2/ui/mainwindow.ui
+vcp2/ui/style.qss
